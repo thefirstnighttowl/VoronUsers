@@ -1,0 +1,2 @@
+Door handle in stl files are too long by width of VHB tape.  they dont close correctly.
+I uploaded the step from the original assy file, shortened it by the tape thickness and exported it as a 3mf file.
